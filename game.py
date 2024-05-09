@@ -222,3 +222,4 @@ Introduce una trama y misiones para darle un contexto narrativo al juego.
 
 PODER HACER QUE CIERTOS PERSONAJE SE FUSIONEN PARA HACER UNO MAS PODEROSO
 """
+s
